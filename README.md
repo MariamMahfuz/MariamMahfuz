@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mariam — passionate about solving problems (even the ones I accidentally create) while shaping my skills in dynamic data analysis and visualization
+- 👋 Hi, I’m Mariam — passionate about solving problems (even the ones I accidentally create) while shaping my skills in dynamic data analysis and visualization using Python, SQL, and Power BI
 - Looking to collaborate on projects that make data tell a story
 - Shoot me an email at bintemahfuz92@gmail.com
